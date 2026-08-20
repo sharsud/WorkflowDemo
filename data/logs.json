@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "event": "reset",
+        "context": {
+            "source": "api"
+        },
+        "created_at": "2026-08-20T18:18:33Z"
+    },
+    {
+        "id": 2,
+        "event": "login_attempt",
+        "context": {
+            "username": "admin_user",
+            "ok": true
+        },
+        "created_at": "2026-08-20T18:18:36Z"
+    }
+]

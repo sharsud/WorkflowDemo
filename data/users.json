@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "username": "standard_user",
+        "password": "$2y$10$XT0sAu.3Lovx5hqHOmCQWe8rWMIpcATOKd9JOSFK/qklaYA.xIiJC",
+        "aliases": [
+            "password123"
+        ],
+        "role": "user",
+        "locked": false,
+        "name": "Alex Rivera",
+        "email": "standard_user@qademo.test"
+    },
+    {
+        "id": 2,
+        "username": "locked_user",
+        "password": "$2y$10$Yg8dSQXjhEcye4aspz2z9OwZ7jAADBRkCHKs9xXqGhE.xYym2ExaO",
+        "aliases": [],
+        "role": "user",
+        "locked": true,
+        "name": "Morgan Blake",
+        "email": "locked_user@qademo.test"
+    },
+    {
+        "id": 3,
+        "username": "admin_user",
+        "password": "$2y$10$KRlyAZ1k4NmWF9I0QE1zvuoqVIkUFuoM9sFdXTxSGQnEf1EDA8sNq",
+        "aliases": [],
+        "role": "admin",
+        "locked": false,
+        "name": "Jamie Chen",
+        "email": "admin_user@qademo.test"
+    }
+]

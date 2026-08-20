@@ -1,0 +1,3 @@
+.hidden { display: none !important; }
+#toast.toast-ok { background: #ecfdf5; color: #047857; }
+#toast.toast-error { background: #fff1f2; color: #be123c; }

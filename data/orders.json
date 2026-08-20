@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1001,
+        "user_id": 1,
+        "username": "standard_user",
+        "status": "delivered",
+        "total": 144.98,
+        "items": [
+            {
+                "product_id": 6,
+                "name": "Harbor Ceramic Mug",
+                "price": 14.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 1,
+                "name": "Nimbus Wireless Headphones",
+                "price": 129.99,
+                "quantity": 1
+            }
+        ],
+        "shipping": {
+            "name": "Alex Rivera",
+            "email": "standard_user@qademo.test",
+            "address": "101 Market Street",
+            "city": "Austin",
+            "zip": "78701"
+        },
+        "payment": {
+            "brand": "visa",
+            "last4": "4242"
+        },
+        "created_at": "2026-08-01T14:22:00Z"
+    },
+    {
+        "id": 1002,
+        "user_id": 1,
+        "username": "standard_user",
+        "status": "processing",
+        "total": 74,
+        "items": [
+            {
+                "product_id": 3,
+                "name": "Aero Running Shoes",
+                "price": 74,
+                "quantity": 1
+            }
+        ],
+        "shipping": {
+            "name": "Alex Rivera",
+            "email": "standard_user@qademo.test",
+            "address": "101 Market Street",
+            "city": "Austin",
+            "zip": "78701"
+        },
+        "payment": {
+            "brand": "visa",
+            "last4": "4242"
+        },
+        "created_at": "2026-08-12T09:05:00Z"
+    }
+]
