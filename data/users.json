@@ -2,7 +2,7 @@
     {
         "id": 1,
         "username": "standard_user",
-        "password": "$2y$10$XT0sAu.3Lovx5hqHOmCQWe8rWMIpcATOKd9JOSFK/qklaYA.xIiJC",
+        "password": "$2y$10$xSJBzGObBpU3bKZQBhsGf.shYzWFm8OqegV6bsTXuX5KrO4DSV7dK",
         "aliases": [
             "password123"
         ],
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "username": "locked_user",
-        "password": "$2y$10$Yg8dSQXjhEcye4aspz2z9OwZ7jAADBRkCHKs9xXqGhE.xYym2ExaO",
+        "password": "$2y$10$DHfTo87n5nZzNH8QHILg6.lwH26N.mb5xoXN9wkL5ouZJhLe..zzC",
         "aliases": [],
         "role": "user",
         "locked": true,
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "username": "admin_user",
-        "password": "$2y$10$KRlyAZ1k4NmWF9I0QE1zvuoqVIkUFuoM9sFdXTxSGQnEf1EDA8sNq",
+        "password": "$2y$10$PgHlf9akdEud7FLXVp3qguUaUwGh5RrrQJe3ztxhWY1GSyHOMWcgm",
         "aliases": [],
         "role": "admin",
         "locked": false,
