@@ -71,7 +71,7 @@ function render_footer(): void
 </main>
 <footer class="mt-12 border-t border-slate-200 bg-white" data-testid="site-footer">
     <div class="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-4 py-6 text-sm text-slate-500 sm:flex-row">
-        <p data-testid="footer-copy">QADemo Shop · Curated with ❤️ by <a href="https://www.about.learnwithpsudo.com/" target='blank'>Sudhanshu</a> for <a href="https://www.learnwithpsudo.com/" target='blank'>LearnWithPsudo</a></p>
+        <p data-testid="footer-copy">QADemo Shop · Curated with ❤️ by <a href="https://www.about.learnwithpsudo.com/" target='blank'>Sudhanshu</a> for <a href="https://www.learnwithpsudo.com/" target='blank'>LWS<sup>&copy;</sup> - LearnWithPsudo</a></p>
         <button type="button" id="btn-reset-state" class="rounded-md border border-rose-300 px-3 py-1.5 font-medium text-rose-700 hover:bg-rose-50" data-testid="btn-reset-state">Reset Application State</button>
     </div>
 </footer>
