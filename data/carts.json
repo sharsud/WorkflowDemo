@@ -1,1 +1,14 @@
-[]
+{
+    "guest_3lvkvvvnjr3dcolqqgm06n2ets": {
+        "items": [
+            {
+                "product_id": 2,
+                "quantity": 1
+            },
+            {
+                "product_id": 3,
+                "quantity": 1
+            }
+        ]
+    }
+}
