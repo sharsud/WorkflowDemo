@@ -14,7 +14,7 @@ function render_header(string $title, string $page): void
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="app-base" content="<?= e($base) ?>">
 	<link rel="icon" type="image/x-icon" href="/assets/img/logo.ico">
-    <title><?= e($title) ?> | QADemo Shop</title>
+    <title>LWS || <?= e($title) ?> - QADemo Shop</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
